@@ -20,16 +20,16 @@ To open the *index.html* file, open the command line, navigate to the main folde
 ### Interactive Maps Views
 
 <p align="center">
-    <img src="">
+    <img src="Screen Shot 2021-12-12 at 8.50.40 PM.png">
     Streets view
 </p>
 <br>
 <p align="center">
-    <img src="">
+    <img src="Screen Shot 2021-12-12 at 8.50.53 PM.png">
     Satellite view
 </p>
 <br>
 <p align="center">
-    <img src="">
+    <img src="Screen Shot 2021-12-12 at 8.51.02 PM.png">
     Dark view
 </p>
